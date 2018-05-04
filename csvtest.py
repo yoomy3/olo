@@ -2,6 +2,7 @@ import csv
 import datetime
 import calendar
 import time
+resolution = 50
 
 class col:
     prp = '\033[95m'
