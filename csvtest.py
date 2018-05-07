@@ -3,6 +3,7 @@
 
 # Tickets
 # > Need to account for timezones in daytimestamp
+# > open up new branch to incorporate resolution
 
 import csv
 import datetime
